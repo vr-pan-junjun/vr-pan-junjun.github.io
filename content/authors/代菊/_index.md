@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ju Dai 代菊
+title: Ju Dai
 
 # Full name (for SEO)
 first_name: Ju
@@ -66,7 +66,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 代菊 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
