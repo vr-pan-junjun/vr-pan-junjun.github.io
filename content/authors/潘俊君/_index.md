@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'junjun_pan@buaa.edu.cn'
+    link: 'mailto:junjun_pan@buaa.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=7o6V90sAAAAJ&hl=en
