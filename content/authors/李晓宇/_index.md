@@ -1,8 +1,8 @@
 ---
 # Display name
-title: XiaoYu Li
+title: Xiaoyu Li 李晓宇
 # Full Name (for SEO)
-first_name: XiaoYu
+first_name: Xiaoyu
 last_name: Li
 
 # Is this the primary user of the site?

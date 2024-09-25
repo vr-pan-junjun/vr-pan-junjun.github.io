@@ -1,8 +1,8 @@
 ---
 # Display name
-title: LiDong Xie
+title: Lidong Xie 谢礼冬
 # Full Name (for SEO)
-first_name: LiDong
+first_name: Lidong
 last_name: Xie
 
 # Is this the primary user of the site?

@@ -1,8 +1,8 @@
 ---
 # Display name
-title: ChengKai Zhao
+title: Chengkai Zhao 赵成凯
 # Full Name (for SEO)
-first_name: ChengKai
+first_name: Chengkai
 last_name: Zhao
 
 # Is this the primary user of the site?

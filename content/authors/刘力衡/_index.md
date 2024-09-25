@@ -1,8 +1,8 @@
 ---
 # Display name
-title: LiHeng Liu
+title: Liheng Liu 刘力衡
 # Full Name (for SEO)
-first_name: LiHeng
+first_name: Liheng
 last_name: Liu
 
 # Is this the primary user of the site?

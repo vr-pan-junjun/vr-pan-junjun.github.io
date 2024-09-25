@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shuo Li
+title: Shuo Li 李烁
 # Full Name (for SEO)
 first_name: Shuo
 last_name: Li
@@ -9,7 +9,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: 2020 级硕士
+role: 2020 级软院硕士
 
 # Organizations/Affiliations
 organizations:

@@ -1,15 +1,15 @@
 ---
 # Display name
-title: YuanYuan Lin
+title: Yuanyuan Lin 林媛媛
 # Full Name (for SEO)
-first_name: YuanYuan
+first_name: Yuanyuan
 last_name: Lin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2021 级硕士
+role: 2021 级软院硕士
 
 # Organizations/Affiliations
 organizations:

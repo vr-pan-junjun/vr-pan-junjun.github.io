@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junjun Pan
+title: Junjun Pan 潘俊君
 
 # Full Name (for SEO)
 first_name: Junjun

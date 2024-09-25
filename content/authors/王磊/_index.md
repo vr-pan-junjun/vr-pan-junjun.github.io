@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lei Wang
+title: Lei Wang 王磊
 # Full Name (for SEO)
 first_name: Lei
 last_name: Wang

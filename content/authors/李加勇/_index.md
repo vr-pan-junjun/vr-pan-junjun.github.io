@@ -1,15 +1,15 @@
 ---
 # Display name
-title: JiaYong Li
+title: Jiayong Li 李加勇
 # Full Name (for SEO)
-first_name: JiaYong
+first_name: Jiayong
 last_name: Li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2020 级硕士
+role: 2020 级青岛研院硕士
 
 # Organizations/Affiliations
 organizations:

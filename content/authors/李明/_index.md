@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ming Li
+title: Ming Li 李明
 # Full Name (for SEO)
 first_name: Ming
 last_name: Li

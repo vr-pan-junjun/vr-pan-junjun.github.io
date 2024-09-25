@@ -1,8 +1,8 @@
 ---
 # Display name
-title: MeiJia Huang
+title: Meijia Huang 黄美佳
 # Full Name (for SEO)
-first_name: MeiJia
+first_name: Meijia
 last_name: Huang
 
 # Is this the primary user of the site?

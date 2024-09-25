@@ -1,8 +1,8 @@
 ---
 # Display name
-title: YiXiao Xu
+title: Yixiao Xu 徐一笑
 # Full Name (for SEO)
-first_name: YiXiao
+first_name: Yixiao
 last_name: Xu
 
 # Is this the primary user of the site?

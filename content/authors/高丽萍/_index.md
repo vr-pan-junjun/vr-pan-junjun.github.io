@@ -1,15 +1,15 @@
 ---
 # Display name
-title: LiPing c
+title: Liping Gao 高丽萍
 # Full Name (for SEO)
-first_name: LiPing
-last_name: LiPing
+first_name: Liping
+last_name: Gao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2019 级硕士
+role: 2019 级软院硕士
 
 # Organizations/Affiliations
 organizations:

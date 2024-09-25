@@ -1,8 +1,8 @@
 ---
 # Display name
-title: ZhengHao Song
+title: Zhenghao Song 宋正浩
 # Full Name (for SEO)
-first_name: ZhengHao
+first_name: Zhenghao
 last_name: Song
 
 # Is this the primary user of the site?

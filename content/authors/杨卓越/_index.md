@@ -1,8 +1,8 @@
 ---
 # Display name
-title: ZhuoYue Yang
+title: Zhuoyue Yang 杨卓越
 # Full Name (for SEO)
-first_name: ZhuoYue
+first_name: Zhuoyue
 last_name: Yang
 
 # Is this the primary user of the site?

@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Rui Zeng
+title: Rui Zeng 曾瑞
 # Full Name (for SEO)
-first_name: Run
+first_name: Rui
 last_name: Zeng
 
 # Is this the primary user of the site?

@@ -1,8 +1,8 @@
 ---
 # Display name
-title: ZhangMeng Chen
+title: Zhangmeng Chen 陈张猛
 # Full Name (for SEO)
-first_name: ZhangMeng
+first_name: Zhangmeng
 last_name: Chen
 
 # Is this the primary user of the site?

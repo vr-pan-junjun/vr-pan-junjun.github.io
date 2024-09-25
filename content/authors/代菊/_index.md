@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ju Dai
+title: Ju Dai 代菊
 
 # Full name (for SEO)
 first_name: Ju

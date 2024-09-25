@@ -1,8 +1,8 @@
 ---
 # Display name
-title: ZhuoHan Qu
+title: Zhuohan Qu 曲卓涵
 # Full Name (for SEO)
-first_name: ZhuoHan
+first_name: Zhuohan
 last_name: Qu
 
 # Is this the primary user of the site?

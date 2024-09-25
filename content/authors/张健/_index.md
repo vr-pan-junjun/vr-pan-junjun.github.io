@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jian Zhang
+title: Jian Zhang 张健
 # Full Name (for SEO)
 first_name: Jian
 last_name: Zhang

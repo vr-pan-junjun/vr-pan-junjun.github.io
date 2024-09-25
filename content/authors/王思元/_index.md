@@ -1,8 +1,8 @@
 ---
 # Display name
-title: SiYuan Wang
+title: Siyuan Wang 王思元
 # Full Name (for SEO)
-first_name: SiYuan
+first_name: Siyuan
 last_name: Wang
 
 # Is this the primary user of the site?

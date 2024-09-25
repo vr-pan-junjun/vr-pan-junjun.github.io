@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ning Kang
+title: Ning Kang 康宁
 # Full Name (for SEO)
 first_name: Ning
 last_name: Kang

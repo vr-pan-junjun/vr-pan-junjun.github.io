@@ -1,8 +1,8 @@
 ---
 # Display name
-title: JiHui Jiao
+title: Jihui Jiao 焦继辉
 # Full Name (for SEO)
-first_name: JiHui
+first_name: Jihui
 last_name: Jiao
 
 # Is this the primary user of the site?
