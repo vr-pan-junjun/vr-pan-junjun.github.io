@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+曲卓涵，2020 级硕士，毕业后就职于国网济南供电公司。

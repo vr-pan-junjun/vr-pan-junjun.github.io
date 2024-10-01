@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+李烁，2020 级软院硕士，毕业后就职于摩尔线程智能科技（北京）有限责任公司。

@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+康宁，2017 级硕士，毕业后就职于北京航天自动控制研究所。

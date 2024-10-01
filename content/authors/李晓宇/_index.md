@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+李晓宇，2020 级硕士，毕业后就职于网易（杭州）网络有限公司。
