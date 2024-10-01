@@ -29,7 +29,7 @@ abstract: Keyframe-based motion synthesis hold significant effects in games and 
 tags: []
 featured: true
 
-url_pdf: '/publication/rui-zeng-01/paper.pdf'
+url_pdf: '/publication/hao-li-01/paper.pdf'
 url_code: 'https://github.com/wslh852/Keyframe-based-Complex-Motion-Synthesis'
 url_video: 'https://www.youtube.com/watch?v=7Nom_5ljL38'
 url_dataset: ''

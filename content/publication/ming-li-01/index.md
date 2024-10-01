@@ -33,8 +33,8 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: '/publication/rui-zeng-01/paper.pdf'
-url_slides: '/publication/rui-zeng-01/presentation.pdf'
+url_pdf: '/publication/ming-li-01/paper.pdf'
+url_slides: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

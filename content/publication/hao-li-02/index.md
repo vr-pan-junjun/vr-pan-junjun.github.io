@@ -29,7 +29,7 @@ abstract: "Recent studies have made remarkable progress on 3D human motion predi
 tags: []
 featured: true
 
-url_pdf: '/publication/rui-zeng-02/paper.pdf'
+url_pdf: '/publication/hao-li-02/paper.pdf'
 url_code: 'https://github.com/wslh852/KD-Former'
 url_video: ''
 url_dataset: ''
