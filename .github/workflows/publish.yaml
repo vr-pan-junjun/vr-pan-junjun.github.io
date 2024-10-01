@@ -45,13 +45,23 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Build with Hugo
+      - name: Build with Hugo (Test)
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          rm -f ./layouts/_default/baseof.html
+          hugo --cleanDestinationDir # 无视报错
+          hugo                       # 无视报错
+      - name: Build with Hugo (Done)
+        if: always()
         env:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          touch ./layouts/_default/baseof.html
+          hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
+        if: always()
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
