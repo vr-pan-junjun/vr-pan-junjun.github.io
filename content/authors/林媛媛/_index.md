@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+林媛媛，2021 级软院硕士，毕业后就职于神州数码数云科技有限公司。

@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+王思元，2018 级硕士，毕业后就职于字节跳动。

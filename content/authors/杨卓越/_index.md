@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+杨卓越，2019 级博士，毕业后就职于北京理工大学。

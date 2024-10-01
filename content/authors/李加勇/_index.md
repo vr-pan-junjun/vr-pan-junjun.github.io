@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+李加勇，2020 级青岛研院硕士，毕业后就职于歌尔股份有限公司。

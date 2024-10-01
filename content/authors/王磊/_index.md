@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+王磊，2016 级硕士，毕业后就职于上海联影医疗科技股份有限公司。

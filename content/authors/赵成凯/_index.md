@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+杨卓越，2013 级硕士，毕业后就职于字节跳动。

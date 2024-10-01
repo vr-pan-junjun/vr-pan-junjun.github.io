@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+白隽瑄，2015 级博士，毕业后就职于首都体育学院。

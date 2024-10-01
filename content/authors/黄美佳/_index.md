@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+黄美佳，2018 级硕士，毕业后就职于蚂蚁支付宝。

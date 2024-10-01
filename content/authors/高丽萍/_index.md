@@ -52,3 +52,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
+
+高丽萍，2019 级软院硕士，毕业后就职于北京西清能源科技有限公司。
