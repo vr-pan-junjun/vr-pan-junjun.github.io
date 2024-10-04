@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Computer Animation and Virtual Worlds, 2021(32)*"
-publication_short: "*CAVW 2021*"
+publication_short: "*CAVW*"
 
 abstract: "Similar to language and music, dance performances provide an effective way to express human emotions. With the abundance of the motion capture data, content-based motion retrieval and classification have been fiercely investigated. Although researchers attempt to interpret body language in terms of human emotions, the progress is limited by the scarce 3D motion database annotated with emotion labels. This article proposes a hybrid feature for emotional classification in dance performances. The hybrid feature is composed of an explicit feature and a deep feature. The explicit feature is calculated based on the Laban movement analysis, which considers the body, effort, shape, and space properties. The deep feature is obtained from latent representation through a 1D convolutional autoencoder. Eventually, we present an elaborate feature fusion network to attain the hybrid feature that is almost linearly separable. The abundant experiments demonstrate that our hybrid feature is superior to the separate features for the emotional classification in dance performances."
 

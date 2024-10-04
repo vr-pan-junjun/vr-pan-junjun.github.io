@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*SCIENCE CHINA Information Sciences, 2018(61)*"
-publication_short: "*SCIS 2018*"
+publication_short: "*SCIS*"
 
 abstract: "The mesh deformation are composed of two components: deformation by normal balls and deformation by joint balls. Normal balls are generated using sphere-tree construction toolkit (Bradshaw et al [TOG04]). The sizes and positions are modified using the method proposed by Pan et al [VC15]. The joint balls are created at the joints of the skeleton, and the radius is set manually."
 

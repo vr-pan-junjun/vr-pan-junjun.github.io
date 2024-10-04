@@ -2,12 +2,12 @@
 title: "Foot-constrained Spatial-Temporal Transformer for Keyframe-based Complex Motion Synthesis"
 
 authors:
-- Hao Li
-- Ju Dai
-- Rui Zeng
-- Junxuan Bai
-- Zhangmeng Chen
-- Junjun Pan
+  - Hao Li
+  - Ju Dai
+  - Rui Zeng
+  - Junxuan Bai
+  - Zhangmeng Chen
+  - Junjun Pan
 
 date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.1002/cav.2217"

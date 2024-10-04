@@ -2,12 +2,12 @@
 title: "KD-Former: Kinematic and dynamic coupled transformer network for 3D human motion prediction"
 
 authors:
-- Ju Dai
-- Hao Li
-- Rui Zeng
-- Junxuan Bai
-- Feng Zhou
-- Junjun Pan
+  - Ju Dai
+  - Hao Li
+  - Rui Zeng
+  - Junxuan Bai
+  - Feng Zhou
+  - Junjun Pan
 
 date: "2023-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.patcog.2023.109806"

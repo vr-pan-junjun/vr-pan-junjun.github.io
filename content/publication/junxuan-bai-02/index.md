@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Computer Animation and Virtual Worlds, 2015(26)*"
-publication_short: "*CAVW 2015*"
+publication_short: "*CAVW*"
 
 abstract: "This paper systematically describes an interactive dissection approach for hybrid soft tissue models governed by extended position‐based dynamics. Our framework makes use of a hybrid geometric model comprising both surface and volumetric meshes. The fine surface triangular mesh with high‐precision geometric structure and texture at the detailed level is employed to represent the exterior structure of soft tissue models. Meanwhile, the interior structure of soft tissues is constructed by coarser tetrahedral mesh, which is also employed as physical model participating in dynamic simulation. The less details of interior structure can effectively reduce the computational cost during simulation. For physical deformation, we design and implement an extended position‐based dynamics approach that supports topology modification and material heterogeneities of soft tissue. Besides stretching and volume conservation constraints, it enforces the energy preserving constraints, which take the different spring stiffness of material into account and improve the visual performance of soft tissue deformation. Furthermore, we develop mechanical modeling of dissection behavior and analyze the system stability. The experimental results have shown that our approach affords real‐time and robust cutting without sacrificing realistic visual performance. Our novel dissection technique has already been integrated into a virtual reality‐based laparoscopic surgery simulator."
 
