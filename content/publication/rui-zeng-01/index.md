@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 url_pdf: '/publication/rui-zeng-01/paper.pdf'
-url_slides: '/publication/rui-zeng-01/presentation.pdf'
+url_slides: '/publication/rui-zeng-01/slides.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
