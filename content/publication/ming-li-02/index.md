@@ -31,8 +31,8 @@ featured: true
 
 url_pdf: '/publication/ming-li-02/paper.pdf'
 url_poster: '/publication/ming-li-02/poster.pdf'
+url_video: 'https://youtu.be/HBOScQuk8R8'
 url_code: ''
-url_video: ''
 url_dataset: ''
 url_project: ''
 url_slides: ''

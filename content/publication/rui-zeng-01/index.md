@@ -32,12 +32,12 @@ featured: true
 
 url_pdf: '/publication/rui-zeng-01/paper.pdf'
 url_slides: '/publication/rui-zeng-01/slides.pdf'
+url_video: 'https://youtu.be/AC8dD50YptA'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
