@@ -26,13 +26,13 @@ abstract: "The rapid creation of 3D character animation by commodity devices pla
 featured: true
 
 url_pdf: '/publication/ning-kang-01/paper.pdf'
+url_video: 'https://youtu.be/VvXTTQVq7f4'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

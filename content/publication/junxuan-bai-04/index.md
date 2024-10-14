@@ -28,8 +28,8 @@ tags: []
 featured: true
 
 url_pdf: '/publication/junxuan-bai-04/paper.pdf'
+url_video: '/publication/junxuan-bai-04/video.mp4'
 url_code: ''
-url_video: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
