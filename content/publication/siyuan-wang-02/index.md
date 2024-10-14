@@ -29,9 +29,9 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: '/publication/siyuan-wang-01/paper.pdf'
-url_slides: '/publication/siyuan-wang-01/slides.pdf'
-url_video: '/publication/siyuan-wang-01/video.mp4'
+url_pdf: '/publication/siyuan-wang-02/paper.pdf'
+url_slides: '/publication/siyuan-wang-02/slides.pdf'
+url_video: '/publication/siyuan-wang-02/video.mp4'
 url_code: ''
 url_dataset: ''
 url_poster: ''

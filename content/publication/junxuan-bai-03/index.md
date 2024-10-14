@@ -29,8 +29,8 @@ featured: true
 
 url_pdf: '/publication/junxuan-bai-03/paper.pdf'
 url_slides: '/publication/junxuan-bai-03/slides.pdf'
+url_video: '/publication/junxuan-bai-03/video.mp4'
 url_code: ''
-url_video: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
