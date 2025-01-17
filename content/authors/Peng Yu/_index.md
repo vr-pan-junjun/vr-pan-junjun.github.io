@@ -1,15 +1,16 @@
 ---
 # Display name
-title: Zhangmeng Chen（陈张猛）
+title: Peng Yu（禹鹏）
+
 # Full Name (for SEO)
-first_name: Zhangmeng
-last_name: Chen
+first_name: Peng
+last_name: Yu
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 2017 级博士
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-
-education:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -30,10 +28,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhmchen@buaa.edu.cn'
+    link: 'mailto:yupeng@buaa.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: UNDEFINED
+    link: https://scholar.google.com/citations?user=7o6V90sAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -50,9 +48,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Researchers
 ---
 
 ## 研究方向
 
-计算机动画
+物理仿真，虚拟手术

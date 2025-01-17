@@ -30,7 +30,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:UNDEFINED'
+    link: 'mailto:baijx6@163.com'
   - icon: google-scholar
     icon_pack: ai
     link: UNDEFINED
@@ -54,3 +54,7 @@ user_groups:
 ---
 
 白隽瑄，2015 级博士，毕业后就职于首都体育学院。
+
+## 研究方向
+
+计算机动画、虚拟手术
