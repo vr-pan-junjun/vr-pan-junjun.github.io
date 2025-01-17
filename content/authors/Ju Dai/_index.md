@@ -13,33 +13,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Assistant Researcher of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,6 +43,24 @@ user_groups:
   - Researchers
 ---
 
-代菊 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+代菊
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+2020.8-2022.7月，鹏城国家实验室，博士后
+
+2022.8--至今，鹏城国家实验室，助理研究员
+
+## 教育背景
+
+2014年9月至2020年6月，大连理工大学博士，信号与信息处理
+
+2011年9月至2014年6月，中国地质大学（武汉）硕士，信息与通信工程 
+
+2007年9月至2011年6月，中国地质大学（武汉）学士，电子信息工程 
+
+## 研究方向
+
+角色动画生成，数字人驱控生成，视觉内容理解与分析
+
+## 科研经历
+
+主持国家自然科学基金青年基金项目和中国博士后科学基金面上项目，以核心技术骨干参与多项国家重点研发项目和国家实验室重大攻关项目。以第一作者和通讯作者发表10余篇领域内顶级期刊会议（TIP，CVPR，AAAI，TVCG，PR，CGI等 ）论文
