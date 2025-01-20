@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Hongjun Liu（刘红军）
 
 # Full Name (for SEO)
-first_name: Lei
-last_name: Wang
+first_name: Hongjun
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,14 +28,13 @@ bio:
 social: 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:1367663494@qq.com'
   - icon: google-scholar
     icon_pack: ai
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - AR手术导航
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -47,5 +46,5 @@ user_groups:
 
 ---
 
-# 王磊
+# 刘红军
 

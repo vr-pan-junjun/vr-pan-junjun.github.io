@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Shizeng Yan（颜世增）
 
 # Full Name (for SEO)
-first_name: Lei
-last_name: Wang
+first_name: Shizeng
+last_name: Yan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 
+role: 2014 级硕士
+
 
 # Organizations/Affiliations
 organizations:
@@ -34,8 +35,8 @@ social:
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - 物理仿真
+  - 虚拟手术
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -47,5 +48,11 @@ user_groups:
 
 ---
 
-# 王磊
+# 颜世增
+
+2014 级硕士
+
+
+## 毕业去向
+毕业后就职于广联达
 

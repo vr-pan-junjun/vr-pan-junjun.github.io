@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Xinyu Wang（王心雨）
 
 # Full Name (for SEO)
-first_name: Lei
+first_name: Xinyu
 last_name: Wang
 
 # Is this the primary user of the site?
@@ -34,8 +34,7 @@ social:
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - 计算机动画
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -47,5 +46,5 @@ user_groups:
 
 ---
 
-# 王磊
+# 王心雨
 
