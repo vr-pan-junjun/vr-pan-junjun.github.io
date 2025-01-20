@@ -3,8 +3,8 @@
 title: Junxuan Bai（白隽瑄）
 
 # Full Name (for SEO)
-first_name: Bai
-last_name: Junxuan
+first_name: Junxuan
+last_name: Bai
 
 # Is this the primary user of the site?
 superuser: false
