@@ -11,11 +11,11 @@ user_group:
 
 social: 
   - icon: envelope
-  - icon_pack: fas
-  - link: 'mailto:yupeng@buaa.edu.cn'
+    icon_pack: fas
+    link: 'mailto:yupeng@buaa.edu.cn'
   - icon: google-scholar
-  - icon_pack: ai
-  - link: ''
+    icon_pack: ai
+    link: ''
 
 interests:
   - 物理仿真
