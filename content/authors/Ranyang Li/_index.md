@@ -21,8 +21,17 @@ interests:
   - AR手术导航
   - 图像处理
 
-highlight_name: false
+role: 
 
+organizations:
+  - name: Beihang University
+    url: ''
+
+bio: 
+
+email: ''
+
+highlight_name: false
 
 ---
 
