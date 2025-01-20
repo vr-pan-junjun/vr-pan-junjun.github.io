@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Weimin Liu（刘蔚旻）
 
 # Full Name (for SEO)
-first_name: Lei
-last_name: Wang
+first_name: Weimin
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,14 +28,13 @@ bio:
 social: 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:tabkill@buaa.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - 虚拟手术
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -43,9 +42,9 @@ email: ''
 highlight_name: false
 
 user_groups: 
-  - Alumni
+  - Grad Students
 
 ---
 
-# 王磊
+# 刘蔚旻
 

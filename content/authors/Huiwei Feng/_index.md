@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Huiwei Feng（冯会伟）
 
 # Full Name (for SEO)
-first_name: Lei
-last_name: Wang
+first_name: Huiwei
+last_name: Feng
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,14 +28,14 @@ bio:
 social: 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:jhonhuiwei@163.com'
   - icon: google-scholar
     icon_pack: ai
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - 物理仿真
+  - 虚拟手术
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -47,5 +47,5 @@ user_groups:
 
 ---
 
-# 王磊
+# 冯会伟
 

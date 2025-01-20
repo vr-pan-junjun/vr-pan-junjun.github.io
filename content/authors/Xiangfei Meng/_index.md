@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Xiangfei Meng（孟祥飞）
 
 # Full Name (for SEO)
-first_name: Lei
-last_name: Wang
+first_name: Xiangfei
+last_name: Meng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 
+role: 2015 级硕士
+
 
 # Organizations/Affiliations
 organizations:
@@ -28,14 +29,14 @@ bio:
 social: 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:xiangfei_meng@163.com'
   - icon: google-scholar
     icon_pack: ai
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - 图像处理
+  - 计算机动画
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -47,5 +48,14 @@ user_groups:
 
 ---
 
-# 王磊
+# 孟祥飞
+
+2015 级硕士
+
+
+## 毕业去向
+毕业后就职于广州市百果园信息技术有限公司（Bigo）
+
+## 个人主页
+https://dreamchasermxf.github.io/
 

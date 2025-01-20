@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Zhenyu Wang（王震宇）
 
 # Full Name (for SEO)
-first_name: Lei
+first_name: Zhenyu
 last_name: Wang
 
 # Is this the primary user of the site?
@@ -28,14 +28,14 @@ bio:
 social: 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:wzy1406@buaa.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - 图像处理
+  - 虚拟手术
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -43,9 +43,9 @@ email: ''
 highlight_name: false
 
 user_groups: 
-  - Alumni
+  - Grad Students
 
 ---
 
-# 王磊
+# 王震宇
 

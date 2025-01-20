@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Lei Wang（王磊）
+title: Yuhan Yang（杨煜寒）
 
 # Full Name (for SEO)
-first_name: Lei
-last_name: Wang
+first_name: Yuhan
+last_name: Yang
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: 
@@ -28,24 +28,24 @@ bio:
 social: 
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:406078328@qq.com'
   - icon: google-scholar
     icon_pack: ai
     link: ''
 
 interests:
-  - 几何
-  - 碎骨拼接
+  - 物理仿真
+  - 虚拟手术
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-highlight_name: false
+highlight_name: true
 
 user_groups: 
   - Alumni
 
 ---
 
-# 王磊
+# 杨煜寒
 
