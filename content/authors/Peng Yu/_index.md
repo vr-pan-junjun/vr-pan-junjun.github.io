@@ -21,8 +21,17 @@ interests:
   - 物理仿真
   - 虚拟手术
 
-highlight_name: true
+role: 
 
+organizations:
+  - name: Beihang University
+    url: ''
+
+bio: 
+
+email: ''
+
+highlight_name: true
 
 ---
 
