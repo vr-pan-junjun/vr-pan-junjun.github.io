@@ -43,7 +43,7 @@ email: ''
 highlight_name: false
 
 user_groups: 
-  - Grad Students
+  - Alumni
 
 ---
 
