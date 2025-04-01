@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: 
-      email: test@example.org
+      email: pan_junjun@buaa.edu.cn
       phone: 
       address:
         street: 37 Xueyuan Road
@@ -19,8 +19,8 @@ sections:
         country: P.R.China
         country_code: CN
       coordinates:
-        latitude: '116.34085'
-        longitude: '39.97923'
+        latitude: '39.97889'
+        longitude: '116.34560'
       directions: G1008
       office_hours:
       appointment_url:
@@ -34,33 +34,33 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider:
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider:
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: contact.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 ---
