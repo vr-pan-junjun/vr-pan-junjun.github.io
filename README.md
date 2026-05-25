@@ -30,7 +30,9 @@ bash ./scripts/linux_local_test.sh
 
 ## 如何将页面部署到 github Pages
 
-1. 首先，你需要将当前项目的内容 push 到 github 上
-2. 之后，你需要等待 github actions 自动运行一次 publish 操作
-3. 等待其运行结束，你需要再手动运行一次 publish 操作 
-- 详见：https://github.com/vr-pan-junjun/vr-pan-junjun.github.io/actions/workflows/publish.yaml
+- 首先，你需要将当前项目的内容 push 到 github 上
+- 之后，你需要等待 github actions 自动运行一次 publish 操作
+    - 如果你想观察当前正在运行的 github actions 是否仍在运行
+    - 请参考：https://github.com/vr-pan-junjun/vr-pan-junjun.github.io/actions
+- 等待其运行结束，你需要再手动运行一次 publish 操作 
+    - 详见：https://github.com/vr-pan-junjun/vr-pan-junjun.github.io/actions/workflows/publish.yaml
