@@ -39,7 +39,8 @@ bash ./scripts/linux_local_test.sh
 - 之后，你需要等待 github actions 自动运行一次 publish 操作
     - 如果你想观察当前正在运行的 github actions 是否仍在运行
     - 请参考：https://github.com/vr-pan-junjun/vr-pan-junjun.github.io/actions
-- 等待其运行结束，你需要再手动运行一次 publish 操作 
+- 等待其运行结束，查看网站渲染是否正常
+    - 如果网站渲染不正常，你还需要再手动运行一次 publish 操作 
     - 详见：https://github.com/vr-pan-junjun/vr-pan-junjun.github.io/actions/workflows/publish.yaml
 
 ## 如何新增老师或者学生
