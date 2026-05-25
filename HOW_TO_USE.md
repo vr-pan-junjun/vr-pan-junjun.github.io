@@ -1,6 +1,6 @@
 # vr-panjunjun.github.io
-项目网址：https://vr-pan-junjun.github.io/
-原始模板 README：[README-Hugo-Research-Group-Theme.md](README-Hugo-Research-Group-Theme.md)
+- 项目网址：https://vr-pan-junjun.github.io/
+- 原始模板 README：[README-Hugo-Research-Group-Theme.md](README-Hugo-Research-Group-Theme.md)
 
 > [!NOTE]
 > 为什么本文件不叫 `README.md`？
