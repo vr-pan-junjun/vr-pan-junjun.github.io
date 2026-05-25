@@ -2,6 +2,11 @@
 项目网址：https://vr-pan-junjun.github.io/
 原始模板 README：[README-Hugo-Research-Group-Theme.md](README-Hugo-Research-Group-Theme.md)
 
+> [!INFO]
+> 为什么本文件不叫 `README.md`？
+>
+> 因为如果本文件叫 `README.md`，那么 github Pages 的默认根目录会与网站根目录冲突，是的网站根目录被覆盖。
+
 ## 如何在本地启动网站
 
 > [!IMPORTANT]
@@ -36,3 +41,12 @@ bash ./scripts/linux_local_test.sh
     - 请参考：https://github.com/vr-pan-junjun/vr-pan-junjun.github.io/actions
 - 等待其运行结束，你需要再手动运行一次 publish 操作 
     - 详见：https://github.com/vr-pan-junjun/vr-pan-junjun.github.io/actions/workflows/publish.yaml
+
+## 如何新增老师或者学生
+- 请参考：https://github.com/GGN-2015/vr-lab-scripts
+- 其中给出了一些添加老师/学生时可以使用的自动化工具
+
+## 如何新增论文
+- 请参考本项目中 `./content/publication/yuanyuan-lin-01/` 中的内容，在 `./content/publication/` 新建文件夹
+- 新建的文件夹中应当至少包含一个：`index.md` 和一个 `paper.pdf`
+- 如果相关代码或者演示视频的尺寸太大，则建议先上传到 youtube 或者其他存储平台，再在 `index.md` 引用其链接
