@@ -2,7 +2,7 @@
 项目网址：https://vr-pan-junjun.github.io/
 原始模板 README：[README-Hugo-Research-Group-Theme.md](README-Hugo-Research-Group-Theme.md)
 
-> [!INFO]
+> [!NOTE]
 > 为什么本文件不叫 `README.md`？
 >
 > 因为如果本文件叫 `README.md`，那么 github Pages 的默认根目录会与网站根目录冲突，是的网站根目录被覆盖。
