@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **MCVR Research Group** is a pioneering team dedicated to the intersection of medical science, computer vision, and virtual reality. Our mission is to harness the power of advanced imaging and VR technologies to revolutionize healthcare delivery and medical education. By merging these disciplines, we aim to create innovative solutions that enhance patient outcomes and empower medical professionals with cutting-edge tools for diagnosis, treatment, and training. Our work is at the forefront of transforming the future of medicine through immersive and interactive experiences.
+        The **MCVR Research Group** is a pioneering team dedicated to the intersection of medical science, computer vision, and virtual reality. Our mission is to harness the power of advanced imaging and VR technologies to revolutionize healthcare delivery and medical education. By merging these disciplines, we aim to create innovative solutions that enhance patient outcomes and empower medical professionals with cutting-edge tools for diagnosis, treatment, and training. Our work is at the forefront of transforming the future of medicine through immersive and interactive experiences. Open source projects, see: [https://github.com/BUAA-MCVR-Lab](https://github.com/BUAA-MCVR-Lab)
 
   
   - block: collection
